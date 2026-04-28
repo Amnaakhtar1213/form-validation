@@ -1,6 +1,6 @@
 ## FORM-VALIDATOR
 
-A simple registered form that let the user to enter username, email, password, and confirm password.The form show error if one of the group is invalid or empty.Error represented in red outline ans success represented in red outline.
+A simple registered form that let the user to enter username, email, password, and confirm password.The form show error if one of the input is invalid or empty.Error represented in red outline ans success represented in green outline.
 
 -----
 
