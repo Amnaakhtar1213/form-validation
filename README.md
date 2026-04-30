@@ -23,6 +23,14 @@ A simple registered form that let the user to enter username, email, password, a
 
 -----
 
+[## GET A WARNING MESSAGE
+
+- When the screen is red and it says *WARNING* Dangerous. Its okay because it came because of browser security just go to 
+DETAIL > VISIT THIS UNSAFE SITE > RELOAD PAGE.
+- You see the live demo.
+]
+-----------------------------
+
 ##  How to Run 
 -------------
 
