@@ -29,13 +29,13 @@ A simple registered form that let the user to enter username, email, password, a
 ## SCREENSHOT 🖼️
 Here what the app look like
 
-- [screenshot](SS.png)
+- [Form-validator Screenshot](SS.png)
 
 ------------------------
 
 ## LIVE DEMO 🌐
 
-[Click here for live demo](https://amnaakhtar1213.github.io/form-validation/)
+[Click here for live demo on browser](https://amnaakhtar1213.github.io/form-validation/)
 
 -----------------------------
 
