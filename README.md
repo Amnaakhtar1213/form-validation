@@ -24,6 +24,21 @@ A simple registered form that let the user to enter username, email, password, a
 -----
 
 ##  How to Run 
-[Click here to view repository](https://github.com/Amnaakhtar1213/form-validation.git)
+-------------
+
+## SCREENSHOT 🖼️
+Here what the app look like
+
+- [screenshot](SS.png)
+
+------------------------
+
+## LIVE DEMO 🌐
+
+[Click here for live demo](https://amnaakhtar1213.github.io/form-validation/)
+
+-----------------------------
+
+## Clone this Repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/form-validation.git
